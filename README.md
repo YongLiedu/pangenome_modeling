@@ -1,2 +1,2 @@
-# pangenome_modelling
-Pan-genome modelling script in R
+# pangenome_modeling
+Pan-genome modeling script in R
